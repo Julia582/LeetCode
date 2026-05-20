@@ -19,7 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Julia582/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Julia582/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Julia582/LeetCode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Julia582/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Julia582/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Julia582/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
