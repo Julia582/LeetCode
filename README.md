@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Julia582/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Julia582/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Julia582/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Julia582/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Julia582/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Julia582/LeetCode/tree/master/0917-reverse-only-letters) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Julia582/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Julia582/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Julia582/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Julia582/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Julia582/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Julia582/LeetCode/tree/master/0917-reverse-only-letters) |
 ## Greedy
