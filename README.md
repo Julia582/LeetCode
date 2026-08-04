@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Julia582/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Julia582/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Julia582/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/Julia582/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Julia582/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Julia582/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Julia582/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/Julia582/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
